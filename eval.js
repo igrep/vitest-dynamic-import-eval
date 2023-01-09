@@ -1,2 +1,2 @@
-import { arrayUniqEval } from "./uniq.js";
-await arrayUniqEval();
+import { evalImport } from "./evalImport.js";
+console.log(await evalImport());

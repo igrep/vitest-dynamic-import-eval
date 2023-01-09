@@ -13,8 +13,5 @@
 	"license": "ISC",
 	"devDependencies": {
 		"vitest": "^0.10.2"
-	},
-	"dependencies": {
-		"array-uniq": "^3.0.0"
 	}
 }
